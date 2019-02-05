@@ -10,7 +10,7 @@
 
 신경망을 직접 구현하고, mnist 데이터셋을 학습시킵니다.
 
-+ NeuralNetwork with Python : https://github.com/hyukhwankwon/NeuralNetwork
++ NeuralNetwork with Python : https://github.com/hhkwon/NeuralNetwork
 
 
 ## Language
